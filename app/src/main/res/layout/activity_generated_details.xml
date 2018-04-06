@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dell.zxing.GeneratedDetails">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:text="QR CODE \:"
+                android:gravity="bottom"
+                android:textColor="#030104"
+                android:fontFamily="sans-serif-smallcaps"
+                android:textSize="30sp"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="290dp">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/button4"
+                android:text="Save QR CODE"
+                android:layout_width="match_parent"
+                android:onClick="save"
+                android:layout_height="76dp" />
+            <Button
+                android:id="@+id/button3"
+                android:text="Share QR CODE"
+                android:onClick="share"
+                android:layout_width="match_parent"
+                android:layout_height="76dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

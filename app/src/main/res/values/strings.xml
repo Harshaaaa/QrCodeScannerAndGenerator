@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QRC</string>
+    <string name="enter_text_plain">Enter Text</string>
+    <string name="generate_qrcode">Generate QRCODE</string>
+    <string name="enter_contact_details">Enter Contact Details</string>
+    <string name="person_name">Person Name</string>
+    <string name="email_address">EMail Address</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="enter_product_number">Enter Product Number</string>
+    <string name="product_number">Product Number</string>
+    <string name="enter_weblink">Enter WebLink</string>
+    <string name="website">Website</string>
+    <string name="city">City</string>
+    <string name="company">Company</string>
+    <string name="enter_personal_details">Enter Personal Details</string>
+    <string name="your_name">Your Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">EMail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

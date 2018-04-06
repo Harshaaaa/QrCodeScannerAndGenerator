@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_weblink.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_weblink.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_home.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_product.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_product.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_person_contact.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_person_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_flash.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_flash.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_company.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_company.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_flashoff.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_flashoff.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_person_icon.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_person_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name_left.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name_left.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_person_email.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\Zxing\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_person_email.png"
+    }
+]
